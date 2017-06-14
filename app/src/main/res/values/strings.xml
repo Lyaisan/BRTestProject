@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BottleRocketsTestProject</string>
+
+    <string name="city">City:</string>
+    <string name="zipcode">Zipcode:</string>
+    <string name="state">State:</string>
+
+    <string name="empty">The list is empty</string>
+    <string name="device_cannot_make_call">Device cannot make call</string>
+    <string name="no_storeid_error">Error, store id is empty</string>
+
+    <string name="store_id">storeID</string>
+    <string name="tel">tel:</string>
+    <string name="cached_data">Cached data</string>
+    <string name="refresh">Refresh</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="exit">exit</string>
+    <string name="no_application">No application available to do this action</string>
+</resources>
